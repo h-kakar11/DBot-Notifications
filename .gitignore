@@ -1,5 +1,7 @@
 #Project
 
+.env
+data/
 export.json
 tracked.json
 tags*
